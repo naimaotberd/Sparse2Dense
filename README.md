@@ -1,6 +1,7 @@
 # Sparse2dense: Sparse to Dense Dynamic 3D Facial Expression Generation
 
-This is an official repository of the paper Sparse to Dense Dynamic 3D Facial Expression Generation.
+This is an official repository of the paper Sparse to Dense Dynamic 3D Facial Expression Generation. https://arxiv.org/abs/2105.07463
+
 THE CODE IS COMMING SOON !
 
 # Results
@@ -19,9 +20,6 @@ THE CODE IS COMMING SOON !
 # Installation
 
 # Download models
-
-# License 
-Free for non-commercial and scientific research purposes. By using this code, you acknowledge that you have read the license terms (link) understand them, and agree to be bound by them.
 
 # Reference
 Please cite the following paper if you use the code directly or indirectly in your research/projects.
