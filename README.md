@@ -2,7 +2,6 @@
 
 This is an official repository of the paper Sparse to Dense Dynamic 3D Facial Expression Generation. https://arxiv.org/abs/2105.07463
 
-THE CODE IS COMING SOON !
 
 # Results
 
@@ -18,8 +17,6 @@ THE CODE IS COMING SOON !
 ![tst_githubvideo](https://user-images.githubusercontent.com/19242829/158141129-4a27520e-1482-47a7-baeb-1f3e15583072.gif)
 
 # Installation
-
-# Download models
 
 # Reference
 Please cite the following paper if you use the code directly or indirectly in your research/projects.
