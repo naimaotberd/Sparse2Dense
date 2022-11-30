@@ -20,8 +20,8 @@ This is an official repository of the paper Sparse to Dense Dynamic 3D Facial Ex
 # Usage
 The code is divided into two folders: 
 
-Motion3DGAN: used to train a GAN generator of 3D landmarks motion;\\
-S2D: used to train and test the decoder that deforms the 3d mesh according to a given landmarks configuration;\\
+Motion3DGAN: used to train a GAN generator of 3D landmarks motion;
+S2D: used to train and test the decoder that deforms the 3d mesh according to a given landmarks configuration;
 You will find a Readme file inside each one of these folders with the installation and the usage instructions.
 
 
